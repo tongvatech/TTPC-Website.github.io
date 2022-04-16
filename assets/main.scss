@@ -1,0 +1,57 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+$light-tan: #EAE0CC;
+$medium-tan: #C9C3A1;
+$light-green: #93A184;
+$dark-green: #536B3A;
+$custom-black: #0A0908;
+
+main {
+  background-color: $light-tan;
+  color: $custom-black;
+  font-family: sans-serif, Helvetica, Arial;
+  text-align: center;
+}
+
+header {
+  background-color: $dark-green;
+  font-family: sans-serif, Helvetica, Arial;
+}
+
+h2 {
+  color: $dark-green;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.site-title{
+  color: $light-tan;
+  text-align: center;
+  @include relative-font-size(2);
+  font-weight: 400;
+  width: 100%;
+}
+
+.site-header {
+  border-top: 5px solid $custom-black;
+  border-bottom: 5px solid $custom-black;
+}
+
+a.button:link, a.button:visited {
+  background-color: $light-green;
+  padding: 6px 10px 6px 10px;
+  color: $custom-black;
+  border-top: 1px solid $custom-black;
+  border-right: 1px solid $custom-black;
+  border-bottom: 1px solid $custom-black;
+  border-left: 1px solid $custom-black;
+  text-decoration: none;
+}
+
+a.button:hover, a.button:active {
+  background-color: $dark-green;
+}
