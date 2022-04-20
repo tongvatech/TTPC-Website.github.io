@@ -16,7 +16,8 @@
 title: Tongva Taraxat Paxaavxa Conservancy
 email: tongvakuuyam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A Land and Culture Conservancy for the Tongva People
+  The Conservancy was created to receive and steward lands in Tovaangar, the traditional
+  Tongva region, encompassing the greater Los Angeles basin.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
