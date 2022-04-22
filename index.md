@@ -24,7 +24,7 @@ The TTPC is a registered 501(c)3 non-profit, EIN 87-1422866. All donations are t
 
 <br>
 
-<a href="https://tongva.networkforgood.com/projects/159058-tongva-taraxat-paxaavxa-conservancy"
+<a href="https://tongva.networkforgood.com/projects/159058-ttpc"
  class="button">Donate</a>
 
  <br>
