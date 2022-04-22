@@ -9,6 +9,8 @@ $medium-tan: #C9C3A1;
 $light-green: #93A184;
 $dark-green: #536B3A;
 $custom-black: #0A0908;
+$button-hover-blue: #1586ae;
+$button-blue: #45b6ee;
 
 main {
   background-color: $light-tan;
@@ -47,16 +49,17 @@ img {
 }
 
 a.button:link, a.button:visited {
-  background-color: $light-green;
-  padding: 6px 10px 6px 10px;
+  background-color: $button-blue;
+  padding: 15px 22px;
   color: $custom-black;
-  border-top: 1px solid $custom-black;
-  border-right: 1px solid $custom-black;
-  border-bottom: 1px solid $custom-black;
-  border-left: 1px solid $custom-black;
+  border-top: 3px solid $custom-black;
+  border-right: 3px solid $custom-black;
+  border-bottom: 3px solid $custom-black;
+  border-left: 3px solid $custom-black;
   text-decoration: none;
+  @include relative-font-size(2);
 }
 
 a.button:hover, a.button:active {
-  background-color: $dark-green;
+  background-color: $button-hover-blue
 }

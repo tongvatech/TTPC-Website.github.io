@@ -22,7 +22,12 @@ of the Tongva as well as the land. _Paxaavxa_ is the Tongva word for a piece of 
 Please support the work of the Tongva Taraxat Paxaavxa Conservancy.
 The TTPC is a registered 501(c)3 non-profit, EIN 87-1422866. All donations are tax deductible.
 
-<a href="https://nativeamericanland.networkforgood.com/projects/152160-native-american-land-conservancy-2022" class="button">Donate</a>
+<br>
+
+<a href="https://tongva.networkforgood.com/projects/159058-tongva-taraxat-paxaavxa-conservancy"
+ class="button">Donate</a>
+
+ <br>
 
 _Note: We request that large donations ($1,000+) be made via wire transfer or check,
 as the online platform takes a percentage of donations. Please contact us for
